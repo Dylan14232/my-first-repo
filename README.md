@@ -6,3 +6,4 @@ I know the intro basics for Python, and JavaScript and I am currently enrolled a
 
 
 "Added personal Information."
+![Mode1](istockphoto-1452604857-1024x1024.jpg)
